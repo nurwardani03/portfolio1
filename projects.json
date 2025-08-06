@@ -1,0 +1,20 @@
+[
+  {
+    "title": "  Easy Audit System",
+    "description": "A Laravel-based web platform to manage and monitor 5S audits in manufacturing. It includes real-time logging, role-based access, visual reports, and data export features.",
+    "image": "images/eas.dashboard.png",
+    "link": "https://github.com/nurwardani03/ea-systems-public"
+  },
+  {
+    "title": "Comingsoon Page",
+    "description": "comingsoon page is a simple, responsive landing page built with HTML, Tailwind CSS, and Vanilla JavaScript. It features a countdown timer, smooth scroll, and a modern design.",
+    "image": "images/inventory-app.png",
+    "link": "https://your-inventory-app-link.com"
+  },
+  {
+    "title": "Comingsoon Page",
+    "description": "comingsoon page is a simple, responsive landing page built with HTML, Tailwind CSS, and Vanilla JavaScript. It features a countdown timer, smooth scroll, and a modern design.",
+    "image": "images/portfolio-site.png",
+    "link": "https://your-portfolio-link.com"
+  }
+]
